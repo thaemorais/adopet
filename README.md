@@ -1,4 +1,4 @@
-<img src='https://github.com/MonicaHillman/3654-rotas-react-native/assets/51282495/c41d034e-e8f9-43f8-b24e-d454d56a5cc5' alt='capa do curso' />
+## Um projeto realizado em conjunto com a Alura em um curso sobre React Navigation
 
 ## Adopet
 Uma rede social para adotantes encontrarem cachorros ou gatos para adoção.
